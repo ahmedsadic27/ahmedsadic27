@@ -10,7 +10,7 @@ I don't just build dashboards; I interview users and deliver mathematically back
 
 ### 🛠️ My Tech & Research Stack
 * **Quantitative:** SQL (PostgreSQL), Python (Pandas, Seaborn), A/B Testing, Statistical Significance (p-values).
-* **Qualitative:** Usability Testing, Heuristic Evaluation, User Interviews, Figma.
+* **Qualitative:** Usability Testing, Heuristic Evaluation, User Interviews.
 * **Specialties:** Drop-off Funnel Analysis, Conversion Rate Optimization (CRO), Cohort Retention.
 
 ### 📂 Featured Case Studies
