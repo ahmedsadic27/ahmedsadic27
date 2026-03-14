@@ -15,7 +15,7 @@ I don't just build dashboards; I interview users and deliver mathematically back
 
 ### 📂 Featured Case Studies
 1. [**Hybrid Drop-Off Investigation**](link-to-repo-1): SQL/Pandas funnel analysis combined with heuristic UXR to fix onboarding friction.
-2. [**A/B Testing & Validation Engine**](link-to-repo-2): Statistical analysis of a checkout redesign backed by synthesized usability testing.
+2. [**A/B Testing & Validation Engine**](https://github.com/ahmedsadic27/ab-testing-validation-engine): Statistical analysis of a checkout redesign backed by synthesized usability testing.
 
 ### 📬 Let's Connect
 * **LinkedIn:** [www.linkedin.com/in/ahmed-mahbub-e-sadic-180260351]
