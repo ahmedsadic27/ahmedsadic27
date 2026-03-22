@@ -20,4 +20,4 @@ I don't just build dashboards; I interview users and deliver mathematically back
 ### 📬 Let's Connect
 * **LinkedIn:** [www.linkedin.com/in/ahmed-mahbub-e-sadic-180260351]
 * **Portfolio:** [https://berry-sandpaper-382.notion.site/Ahmed-Mahbub-E-Sadic-Mixed-Methods-UXR-Product-Data-Analyst-31fff38d2610807d9d46ff10f41bb188]
-* **Email:** [ahmedsadic27@gmail.com]
+* **Email:** [ahmedsadic927@gmail.com]
